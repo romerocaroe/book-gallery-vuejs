@@ -1,15 +1,15 @@
 <template>
-  <div id="app">
-
+  <div>
+    
   </div>
 </template>
 
 <script>
   export default {
-    name: 'App',
+    name: 'Book',
   }
 </script>
 
-<style>
+<style scoped>
 
 </style>
